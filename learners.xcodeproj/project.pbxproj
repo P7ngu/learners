@@ -11,6 +11,8 @@
 		639109D72ADD27CB000DB06B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639109D62ADD27CB000DB06B /* ContentView.swift */; };
 		639109D92ADD27CC000DB06B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 639109D82ADD27CC000DB06B /* Assets.xcassets */; };
 		639109DC2ADD27CC000DB06B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 639109DB2ADD27CC000DB06B /* Preview Assets.xcassets */; };
+		639109E32ADD2C46000DB06B /* learner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639109E22ADD2C46000DB06B /* learner.swift */; };
+		639109E52ADD2FD4000DB06B /* LearnerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639109E42ADD2FD4000DB06B /* LearnerViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		639109D62ADD27CB000DB06B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		639109D82ADD27CC000DB06B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		639109DB2ADD27CC000DB06B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		639109E22ADD2C46000DB06B /* learner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learner.swift; sourceTree = "<group>"; };
+		639109E42ADD2FD4000DB06B /* LearnerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				639109D62ADD27CB000DB06B /* ContentView.swift */,
 				639109D82ADD27CC000DB06B /* Assets.xcassets */,
 				639109DA2ADD27CC000DB06B /* Preview Content */,
+				639109E22ADD2C46000DB06B /* learner.swift */,
+				639109E42ADD2FD4000DB06B /* LearnerViewModel.swift */,
 			);
 			path = learners;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				639109D72ADD27CB000DB06B /* ContentView.swift in Sources */,
 				639109D52ADD27CB000DB06B /* learnersApp.swift in Sources */,
+				639109E52ADD2FD4000DB06B /* LearnerViewModel.swift in Sources */,
+				639109E32ADD2C46000DB06B /* learner.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

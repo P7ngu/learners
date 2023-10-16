@@ -8,15 +8,33 @@
 import SwiftUI
 
 struct ContentView: View {
+    // variables and costants
+    
+    var viewmodel = LearnerViewModel();
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        //interface components, no variables
+        NavigationStack{
+            
+            
+        List {
+            ForEach(viewmodel.learners){ learner in
+                HStack {
+                    //opposite to VStack, there is also ZStack
+                    Image(systemName: "person.fill")
+                        .imageScale(.large)
+                        .foregroundStyle(learner.favouriteColour)
+                    Text (learner.name)
+                    Text (learner.surname)
+                }
+            }
         }
-        .padding()
+        .navigationTitle("Learners")
     }
+        
+        
+    }
+    
 }
 
 #Preview {
