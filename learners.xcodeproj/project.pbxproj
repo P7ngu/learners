@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		63530D182ADE7706004704E3 /* LearnerDetailedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63530D172ADE7706004704E3 /* LearnerDetailedView.swift */; };
 		639109D52ADD27CB000DB06B /* learnersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639109D42ADD27CB000DB06B /* learnersApp.swift */; };
 		639109D72ADD27CB000DB06B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639109D62ADD27CB000DB06B /* ContentView.swift */; };
 		639109D92ADD27CC000DB06B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 639109D82ADD27CC000DB06B /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		63530D172ADE7706004704E3 /* LearnerDetailedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerDetailedView.swift; sourceTree = "<group>"; };
 		639109D12ADD27CB000DB06B /* learners.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = learners.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		639109D42ADD27CB000DB06B /* learnersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learnersApp.swift; sourceTree = "<group>"; };
 		639109D62ADD27CB000DB06B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				639109DA2ADD27CC000DB06B /* Preview Content */,
 				639109E22ADD2C46000DB06B /* learner.swift */,
 				639109E42ADD2FD4000DB06B /* LearnerViewModel.swift */,
+				63530D172ADE7706004704E3 /* LearnerDetailedView.swift */,
 			);
 			path = learners;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				639109D72ADD27CB000DB06B /* ContentView.swift in Sources */,
 				639109D52ADD27CB000DB06B /* learnersApp.swift in Sources */,
+				63530D182ADE7706004704E3 /* LearnerDetailedView.swift in Sources */,
 				639109E52ADD2FD4000DB06B /* LearnerViewModel.swift in Sources */,
 				639109E32ADD2C46000DB06B /* learner.swift in Sources */,
 			);
