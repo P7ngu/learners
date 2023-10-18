@@ -16,6 +16,6 @@ class LearnerViewModel{
         Learner(name: "John", surname: "Cena", favouriteColor: .pink),
         Learner(name: "Francesco", surname: "Dell'Aglio", favouriteColor: .green),
         Learner(name: "Eleonora", surname: "Elefante", favouriteColor: .yellow),
-        Learner(name: "Vasili", surname: "Martin", favouriteColor: .orange)
+        Learner(name: "Vasily", surname: "Martin", favouriteColor: .orange)
     ]
 }

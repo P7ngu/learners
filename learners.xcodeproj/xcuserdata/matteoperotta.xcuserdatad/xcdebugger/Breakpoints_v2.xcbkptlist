@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2A97916B-E768-4489-9424-A631A3C255F8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDC6CD8D-430D-4093-BF6A-595E57B02AD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "learners/View/ViewModel/LearnerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "LearnerViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EDC6CD8D-430D-4093-BF6A-595E57B02AD7 - d0a4c8ffe77a3314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learners.LearnerViewModel.deinit"
+                  moduleName = "learners"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matteoperotta/Documents/Dev/learners/learners/View/ViewModel/LearnerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "EDC6CD8D-430D-4093-BF6A-595E57B02AD7 - 4805bb4478d627fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learners.LearnerViewModel.__deallocating_deinit"
+                  moduleName = "learners"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matteoperotta/Documents/Dev/learners/learners/View/ViewModel/LearnerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EDC6CD8D-430D-4093-BF6A-595E57B02AD7 - 609816c80f537d61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learners.LearnerViewModel.__allocating_init() -&gt; learners.LearnerViewModel"
+                  moduleName = "learners"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matteoperotta/Documents/Dev/learners/learners/View/ViewModel/LearnerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "EDC6CD8D-430D-4093-BF6A-595E57B02AD7 - eceb8257cfba404f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learners.LearnerViewModel.init() -&gt; learners.LearnerViewModel"
+                  moduleName = "learners"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matteoperotta/Documents/Dev/learners/learners/View/ViewModel/LearnerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
